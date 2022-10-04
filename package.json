@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-intro-part-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "github:11ty/eleventy"
+  }
+}
