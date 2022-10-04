@@ -6,4 +6,4 @@ titel: kontakta mig snälla
 
 Den här om
 
-{% img "/img/legitjag.png", "Stilig man", "300", "auto", "img full" %}
+{% image "./src/image/legitjag.png", "photo of my", "(min-width: 30em) 50vw, 100vw" %}

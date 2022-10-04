@@ -11,6 +11,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "@11ty/eleventy": "github:11ty/eleventy"
+    "@11ty/eleventy": "github:11ty/eleventy",
+    "@11ty/eleventy-img": "^2.0.1"
   }
 }

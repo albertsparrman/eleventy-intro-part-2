@@ -25,3 +25,5 @@ Det här är episkt
 
 
 **fet** *böna*
+
+{% image "./src/image/spirit-animal.jpg", "photo of my", "(min-width: 30em) 50vw, 100vw" %}
