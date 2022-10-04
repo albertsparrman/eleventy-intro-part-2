@@ -1,14 +1,16 @@
+@use "reset";
 
+$base-size: 1rem;
 
 body {
     max-width: min(80ch, 100vw - 1rem);
     margin-inline: auto;
-    background-color: aquamarine;
+    background-color: rgb(255, 0, 166);
 }
 
 nav > ul{
     display: flex;
-    gap: 1rem;
+    gap: $base-size;
     list-style: none;
     padding: 0;
 }
